@@ -1,1 +1,1 @@
-HTML5 code and CCS from frander.xyz
+HTML5 code and CSS from frander.xyz
