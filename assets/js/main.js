@@ -61,8 +61,8 @@
 
 					// Create BG.
 						$bg = document.createElement('div');
-							$bg.style.backgroundImage = 'url("' + k + '")';
-							$bg.style.backgroundPosition = settings.images[k];
+							$bg.style.backgroundImage = 'url("'images/bb.jpg'")';
+							$bg.style.backgroundPosition = center;
 							$wrapper.appendChild($bg);
 
 					// Add it to array.
